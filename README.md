@@ -18,9 +18,9 @@ Graphiques portant sur le CA par Segment / Revenus / Publicité... de la marque 
 ![Graphique 2](Nike%20Graphique%204.png)
 
 
-Graphiques portant sur la rivalité entre Nadal et Federer :
-[Voir le Code](Tennis%20Code.py)
-![Graphique](Tennis%20Graphique%201.png)  
-![Graphique 2](Tennis%20Graphique%202.png)
+Graphiques portant sur la rivalité entre Max Verstappen et Lewis Hamilton :
+[Voir le Code](Formule1%20Code.py)
+![Graphique](Formule1%20Graphique%201.png)  
+![Graphique 2](Formule1%20Graphique%202.png)
 
 
