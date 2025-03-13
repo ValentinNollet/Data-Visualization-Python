@@ -1,7 +1,7 @@
 # Data-Visualization-Python
-Graphiques réalisés avec Python (Matplotlib, Pandas, NumPy)
+##Graphiques réalisés avec Python (Matplotlib, Pandas, NumPy)
 
-🚀 Découvrez ici le code et les graphiques que j'ai créés en exploitant les bibliothèques de Data Science en Python !
+🚀 *Découvrez ici le code et les graphiques que j'ai créés en exploitant les bibliothèques de Data Science en Python !*
 
 Voici quelques exemples de graphiques que j'ai pu réaliser :
 
